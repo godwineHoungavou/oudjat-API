@@ -1,0 +1,15 @@
+- install scikit-image: pip install scikit-image 
+- install python3 
+- install numpy: pip3 install numpy 
+- install imutils
+- install mahotas: pip3 install mahotas
+- download the haarcascades files
+- install v4l utils: apt-get install v4l-utils
+- install face recognition API: pip3 install face_recognition
+- install dlib
+- install opencv for python3: https://docs.opencv.org/3.4.1/d2/de6/tutorial_py_setup_in_ubuntu.html
+- install Pillow: pip3 install Pillow
+- install scipy.spatial 
+
+	
+
