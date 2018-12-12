@@ -339,9 +339,6 @@ def video_saver():
     conn.commit()
     conn.close()
  
-  
-capture = cv2.VideoCapture(0)
-video_record(capture)
 
 
 
